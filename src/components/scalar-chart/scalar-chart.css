@@ -1,0 +1,8 @@
+.dropdown-container label,
+.dropdown-container select {
+  font-size: 1rem;
+}
+
+.dropdown-container select option {
+  font-size: 1rem;
+}
